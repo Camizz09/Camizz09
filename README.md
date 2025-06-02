@@ -29,7 +29,7 @@ I’ve always been passionate about technology. I wrote my first lines of code w
 ### 📫 Let's connect!
 
 
-[![Instagram](https://img.shields.io/badge/@seuusuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camizz_s/)
+[![Instagram](https://img.shields.io/badge/@camizz09-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camizz_s/)
 [![LinkedIn](https://img.shields.io/badge/Camilla_Dávyla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/camilla-dávyla-9a8920314/))
 ---
 
